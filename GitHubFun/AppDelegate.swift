@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  GitHubFun
-//
-//  Created by Levi on 9/11/17.
-//  Copyright © 2017 App Volks. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
